@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: mikepod
+  name: mikepod1
   namespace: miketest
   labels:
     name: mikeapp
